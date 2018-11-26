@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+gem 'capistrano'
+gem 'jekyll'
+gem 'kramdown'
+#gem 'rb-gsl'
+gem 'classifier-reborn', '~> 2.0', '>= 2.0.4'
